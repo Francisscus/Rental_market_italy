@@ -22,7 +22,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # when you change the city, control to modify also:
 # - target_url
 # - csv file name: number_rent_city.csv
-# - the number put in the csv file title is used just to order the 20 files
+# - the number in the csv file title is used just to order the 20 files
 
 target_url = 'https://www.immobiliare.it/affitto-case/milano/?criterio=rilevanza'
 
