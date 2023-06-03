@@ -8,3 +8,7 @@ The script is able to scrape multiple pages from the Italian real estate website
 
 The information I collected are: title, price, rooms, surface, n_toilettes, floor.
 The information is stored in a csv file.
+
+
+### Second phase - Data Cleaning\Wrangling, Feature Engineering, Explanatory Data Analysis, Machine Learning
+In this phase, I analyzed data previously retrieved from Immobiliare.it website using Jupyterlab
